@@ -1,0 +1,1 @@
+alert-message `{ "alertTime": 5000,"message":"Fuck Yeah","time":"123441244124","phone":"123441244124" }`

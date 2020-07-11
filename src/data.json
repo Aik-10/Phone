@@ -1,0 +1,28 @@
+{
+    "source":23,
+    "theme":true,
+    "audio":true,
+    "rotate":false,
+    "notification":false,
+    "messages": [
+        { "readed": false, "time":"1594125062372", "sender": "(123) 123-4355", "contact": "Rick BollDick", "number": "(123) 123-4355", "message": "Moro 😀" },
+        { "readed": false, "time":"1594125062372", "sender": "(123) 123-4355", "contact": "Jorma", "number": "(123) 123-4355", "message": "HJe" },
+        { "readed": true, "time":"1594197120828", "sender": "(123) 123-4355", "contact": "", "number": "(123) 123-4355", "message": "HJe moikka moi moi j1238 8asd" },
+        { "readed": false, "time":"1594125062372", "sender": "(123) 123-4355", "contact": "", "number": "(123) 123-4355", "message": "HJe moikka moi moi j1238 8asd" },
+        { "readed": true, "time":"1594125062372", "sender": "(123) 123-4355", "contact": "", "number": "(123) 123-4355", "message": "HJe moikka moi moi j1238 8asd" },
+        { "readed": true, "time":"1594125062372", "sender": "(123) 123-4355", "contact": "", "number": "(123) 123-4355", "message": "HJe" }
+    ],
+    
+    "calls": {
+        "(123) 123-4355": {
+            "1594125062372": {
+                "sender": "(123) 123-4355",
+                "answer": false
+            },
+            "1594125182045": {
+                "sender": null,
+                "answer": true
+            }
+        }
+    }
+}
